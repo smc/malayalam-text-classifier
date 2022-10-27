@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "malayalam-text-classifier"
+  site-url: "https://smc.github.io/malayalam-text-classifier"
+  description: "Malayalam Text Classifier"
+  repo-branch: main
+  repo-url: "https://github.com/smc/malayalam-text-classifier"
